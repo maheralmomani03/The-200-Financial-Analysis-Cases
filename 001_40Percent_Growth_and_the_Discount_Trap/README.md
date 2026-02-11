@@ -1,6 +1,6 @@
 # Case #1: 40% Growth and the Discount Trap
 
-![Cover Image](images/1.png../)
+![Cover Image](../images/1.png)
 
 ### 📝 Technical Analysis
 In this scenario, the management focused on "Top-Line Growth" (Revenue) while neglecting the "Unit Economics." By offering aggressive discounts to drive a 40% increase in volume, the company failed to account for the **Price Elasticity of Profit**. 
