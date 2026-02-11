@@ -7,7 +7,7 @@ In this scenario, the management focused on "Top-Line Growth" (Revenue) while ne
 
 From a **CMA (Certified Management Accountant)** perspective, this is a failure in **CVP (Cost-Volume-Profit) Analysis**. Dropping the price by 10% often requires a much larger jump in volume than expected just to maintain the same absolute Gross Profit, especially if variable costs are high.
 
-![Financial Proof]((../images/2.png)
+![Financial Proof](../images/2.png)
 
 ### 💡 The Correct Action
 1. **Sensitivity Analysis:** Before any discount campaign, model the "Minimum Volume Jump" required to offset the margin drop.
