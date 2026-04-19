@@ -1,13 +1,13 @@
 # Case #2: Geographic Expansion and Profitability Loss
 
-![Cover Image (../images/1.png)
+![Cover Image (../images/3.png)
 
 ### 📝 Technical Analysis
 Geographic expansion often suffers from the "Complexity Trap." In this case, the firm achieved top-line growth but failed to maintain **Contribution Margin** integrity across segments. When entering new territories, companies frequently overlook the "hidden costs" of local supply chains, regulatory compliance, and inefficient labor markets.
 
 From a **CMA (Certified Management Accountant)** perspective, this highlights the necessity of **Segment Reporting**. Relying on consolidated financial statements can mask localized losses. If a segment's contribution margin cannot cover its own traceable fixed costs, the expansion is destroying shareholder value rather than creating it.
 
-![Financial Proof](../images/1.png)
+![Financial Proof](../images/4.png)
 
 
 ### 💡 The Correct Action
