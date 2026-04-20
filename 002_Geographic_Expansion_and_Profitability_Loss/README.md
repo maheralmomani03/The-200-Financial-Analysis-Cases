@@ -1,6 +1,6 @@
 # Case #2: Geographic Expansion and Profitability Loss
 
-![Cover Image(../images/3w.png)
+![Cover Image](../images/3.png)
 
 
 ### 📝 Technical Analysis
