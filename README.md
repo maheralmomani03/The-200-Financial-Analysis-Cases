@@ -2,9 +2,9 @@
 A comprehensive repository of 200 real-world business cases analyzing financial logic, operational risks, and strategic failures. Each case bridges accounting principles with data-driven insights using Python, SQL, and Power BI to optimize corporate decision-making. This visual guide serves as a professional roadmap to mastering complex financial dynamics and ensuring long-term institutional health.
 
 📝 200-Case Roadmap
-[ ] Day 001: 40% Growth and the Discount Trap
+[ ✔️] Day 001: 40% Growth and the Discount Trap
 
-[ ] Day 002: Geographic Expansion and Profitability Loss
+[ ✔️] Day 002: Geographic Expansion and Profitability Loss
 
 [ ] Day 003: B2B Growth and the Collection Crisis
 
