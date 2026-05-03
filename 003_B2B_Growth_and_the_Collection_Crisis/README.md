@@ -6,7 +6,6 @@ This case illustrates the "Overtrading" phenomenon, where a business grows faste
 
 From a **CMA (Certified Management Accountant)** perspective, the critical metric here is the **Days Sales Outstanding (DSO)** and the **Cash Conversion Cycle (CCC)**. A rising DSO during a growth phase is a red flag indicating that the company is essentially providing interest-free loans to its customers at the expense of its own survival. Without a strong collection strategy, high-revenue growth leads directly to technical insolvency.
 
-![Cover Image](../images/6.png)
 ### 💡 The Correct Action
 1. **DSO Monitoring:** Set strict thresholds for Days Sales Outstanding (DSO) and trigger immediate alerts when they are exceeded.
 2. **Incentivize Collections:** Re-align the sales commission structure to be paid only upon "Cash Collection" rather than "Contract Signing."
