@@ -2,25 +2,26 @@
 A comprehensive repository of 200 real-world business cases analyzing financial logic, operational risks, and strategic failures. Each case bridges accounting principles with data-driven insights using Python, SQL, and Power BI to optimize corporate decision-making. This visual guide serves as a professional roadmap to mastering complex financial dynamics and ensuring long-term institutional health.
 
 📝 200-Case Roadmap
+
 [ ✔️] Day 001: 40% Growth and the Discount Trap
 
 [ ✔️] Day 002: Geographic Expansion and Profitability Loss
 
-[ ] Day 003: B2B Growth and the Collection Crisis
+[✔️] Day 003: B2B Growth and the Collection Crisis
 
-[ ] Day 004: Customer Volume vs. Transaction Value
+[✔️] Day 004: Customer Volume vs. Transaction Value
 
-[ ] Day 005: The Low-Margin Product Trap
+[✔️] Day 005: The Low-Margin Product Trap
 
-[ ] Day 006: The Squeezed Margin of Strategic Partnerships
+[✔️] Day 006: The Squeezed Margin of Strategic Partnerships
 
-[ ] Day 007: Customer Acquisition Cost (CAC) vs. Profit
+[✔️] Day 007: Customer Acquisition Cost (CAC) vs. Profit
 
-[ ] Day 008: The Illusion of Seasonal Growth
+[✔️] Day 008: The Illusion of Seasonal Growth
 
-[ ] Day 009: Extended Payment Terms and Artificial Growth
+[✔️] Day 009: Extended Payment Terms and Artificial Growth
 
-[ ] Day 010: Revenue Growth and the Return Explosion
+[✔️] Day 010: Revenue Growth and the Return Explosion
 
 [ ] Day 011: High Profits and Negative Cash Flow
 
