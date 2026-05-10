@@ -1,6 +1,6 @@
 # Case #12: The Magic of Inventory Valuation
 
-![Cover Image](images/23.png)
+![Cover Image](../images/23.png)
 
 ### 📝 Technical Analysis
 This case explores the manipulation of the **Cost of Goods Sold (COGS)** formula:  
@@ -8,7 +8,7 @@ This case explores the manipulation of the **Cost of Goods Sold (COGS)** formula
 
 From a **CMA (Certified Management Accountant)** perspective, the red flag here is the divergence between "Book Profit" and the **Inventory Turnover Ratio**. If the profit is rising while the turnover is slowing down (1.4x vs 2.5x), it indicates that the company is "capitalizing expenses" into inventory rather than expensing them. This lowers the quality of earnings and creates a massive risk of future write-downs.
 
-![Financial Proof](images/24.png)
+![Cover Image](../images/24.png)
 
 ### 💡 The Correct Action
 1. **Inventory Turnover Benchmarking:** Monitor the turnover ratio monthly; any significant drop while margins improve requires an immediate audit.
