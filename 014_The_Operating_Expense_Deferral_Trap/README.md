@@ -1,13 +1,13 @@
 # Case #14: The Operating Expense Deferral Trap
 
-![Cover Image](images/27.png)
+![Cover Image](../images/27.png)
 
 ### 📝 Technical Analysis
 This case explores the manipulation of the **Matching Principle** in accrual accounting. By intentionally failing to record **Accrued Expenses** (expenses incurred but not yet invoiced/paid), management artificially inflates the current period's Net Income. Furthermore, deferring "Discretionary Expenses" like maintenance and R&D creates a temporary profit spike that will inevitably lead to higher costs (repairs, loss of competitiveness) in future periods.
 
 From a **CMA (Certified Management Accountant)** perspective, this is a "Quality of Earnings" red flag. When "Actual vs. Budget" variances are significantly favorable in maintenance and administrative categories while production volume remains constant, it suggests "Window Dressing." This practice creates a "Liability Backlog" that can lead to a sudden earnings collapse once the deferred costs can no longer be ignored.
 
-![Financial Proof](images/28.png)
+![Cover Image](../images/28.png)
 
 ### 💡 The Correct Action
 1. **Accrual Integrity Audit:** Conduct a month-end review specifically focused on unrecorded liabilities and "uninvoiced receipts" to ensure all costs are captured.
