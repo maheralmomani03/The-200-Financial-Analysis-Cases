@@ -3,9 +3,9 @@ A comprehensive repository of 200 real-world business cases analyzing financial 
 
 📝 200-Case Roadmap
 
-[ ✔️] Day 001: 40% Growth and the Discount Trap
+[✔️] Day 001: 40% Growth and the Discount Trap
 
-[ ✔️] Day 002: Geographic Expansion and Profitability Loss
+[✔️] Day 002: Geographic Expansion and Profitability Loss
 
 [✔️] Day 003: B2B Growth and the Collection Crisis
 
@@ -23,25 +23,25 @@ A comprehensive repository of 200 real-world business cases analyzing financial 
 
 [✔️] Day 010: Revenue Growth and the Return Explosion
 
-[ ] Day 011: High Profits and Negative Cash Flow
+[✔️] Day 011: High Profits and Negative Cash Flow
 
-[ ] Day 012: The Magic of Inventory Valuation
+[✔️] Day 012: The Magic of Inventory Valuation
 
-[ ] Day 013: Accounts Receivable (AR) Expansion
+[✔️] Day 013: Accounts Receivable (AR) Expansion
 
-[ ] Day 014: The Operating Expense Deferral Trap
+[✔️] Day 014: The Operating Expense Deferral Trap
 
-[ ] Day 015: Funding Operations through Debt
+[✔️] Day 015: Funding Operations through Debt
 
-[ ] Day 016: Profit at the Expense of Future Investment
+[✔️] Day 016: Profit at the Expense of Future Investment
 
-[ ] Day 017: The Illusion of Asset Sale Profits
+[✔️] Day 017: The Illusion of Asset Sale Profits
 
-[ ] Day 018: The Deferred Expense Time Bomb
+[✔️] Day 018: The Deferred Expense Time Bomb
 
-[ ] Day 019: Stagnant Inventory Growth
+[✔️] Day 019: Stagnant Inventory Growth
 
-[ ] Day 020: Seasonal Liquidity Pressure
+[✔️] Day 020: Seasonal Liquidity Pressure
 
 [ ] Day 021: Revenue Concentration (Single Customer Trap)
 
