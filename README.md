@@ -43,25 +43,25 @@ A comprehensive repository of 200 real-world business cases analyzing financial 
 
 [✔️] Day 020: Seasonal Liquidity Pressure
 
-[ ] Day 021: Revenue Concentration (Single Customer Trap)
+[✔️ ] Day 021: Revenue Concentration (Single Customer Trap)
 
-[ ] Day 022: Deadly Negotiating Power of Major Clients
+[ ✔️] Day 022: Deadly Negotiating Power of Major Clients
 
-[ ] Day 023: Hidden Costs of Customization
+[✔️ ] Day 023: Hidden Costs of Customization
 
-[ ] Day 024: The Chronic Late-Paying Customer
+[✔️ ] Day 024: The Chronic Late-Paying Customer
 
-[ ] Day 025: Time-Consuming and Low-Yield Clients
+[✔️ ] Day 025: Time-Consuming and Low-Yield Clients
 
-[ ] Day 026: The Cost of Permanent Urgent Shipping
+[✔️ ] Day 026: The Cost of Permanent Urgent Shipping
 
-[ ] Day 027: Discount Addiction and the Exit Threat
+[✔️ ] Day 027: Discount Addiction and the Exit Threat
 
-[ ] Day 028: Cash Timing in Government Contracts
+[✔️ ] Day 028: Cash Timing in Government Contracts
 
-[ ] Day 029: Product Drift due to a Single Client
+[✔️ ] Day 029: Product Drift due to a Single Client
 
-[ ] Day 030: The Zero-Growth Major Account
+[✔️ ] Day 030: The Zero-Growth Major Account
 
 [ ] Day 031: Best-Seller vs. Profit-Killer
 
