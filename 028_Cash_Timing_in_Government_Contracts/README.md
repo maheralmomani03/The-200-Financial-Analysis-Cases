@@ -1,11 +1,11 @@
 # Case #28: Cash Timing in Government Contracts
 
-![Cover Image](images/55.png)
+![Cover Image](../images/55.png)
 
 ### 📝 Technical Analysis
 This case focuses on **Cash Flow Timing** and **Working Capital Mismatch**. In "Public Sector Contracts," the credit risk is low (low probability of default), but the "Liquidity Risk" is extremely high. The firm is forced to fund a 6-month "Cash Gap." If the cost of bridge financing (interest on short-term debt) is not factored into the original bid, the "Effective Profit" of the contract is eroded. This is a classic example of how a business can be "Accrual Profitable" but "Cash Flow Bankrupt."
 
-![Financial Proof](images/56.png)
+![Financial Proof](../images/56.png)
 
 ### 💡 The Correct Action
 1. **Factoring Government Receivables:** Use specialized financing to get immediate cash from government invoices, even at a small discount.
