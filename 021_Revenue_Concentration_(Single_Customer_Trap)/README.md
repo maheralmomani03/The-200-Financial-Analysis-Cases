@@ -5,7 +5,7 @@
 ### 📝 Technical Analysis
 This case focuses on **Customer Concentration Risk**. When a single entity controls a significant portion of revenue (35% in this case), the company’s "Bargaining Power" is severely diminished. From a financial stability perspective, this creates high cash flow volatility. If the "Concentration Ratio" is too high, the company’s valuation drops because the risk of a sudden revenue collapse is factored in by investors.
 
-![Financial Proof](..images/42.png)
+![Financial Proof](../images/42.png)
 
 ### 💡 The Correct Action
 1. **Revenue Cap Policy:** Set a strategic goal that no single customer should exceed 15-20% of total revenue.
